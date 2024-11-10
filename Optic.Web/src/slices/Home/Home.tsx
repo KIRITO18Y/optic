@@ -1,5 +1,3 @@
-import { faExpandArrowsAlt } from "@fortawesome/free-solid-svg-icons"
-faExpandArrowsAlt
 export const Home = () => {
   return (
     <>
